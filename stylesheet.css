@@ -6,7 +6,7 @@
 body {
     background-color: #B35DB7;
     font-family: Helvetica;
-text-align: center
+
   
 }
 p {
@@ -26,4 +26,13 @@ body{
   
   
   
+}
+h2{
+  text-align: center
+}
+div {
+  border-width: 5px;
+  border-style: outset;
+    border-color: #565656;
+  background-color: #EF94E8;
 }
